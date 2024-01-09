@@ -98,6 +98,7 @@ body {
 }
 
 .home-content p {
+    margin-top: 1rem;
     font-size: 20px;
     opacity: 0;
     animation: slideLeft 1s ease forwards;
